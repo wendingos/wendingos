@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @wendingo
-- 👀 I’m interested in code 🤷‍♂️
-- 📫 How to reach me discord 
+
 
 <!---
 wendingos/wendingos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
